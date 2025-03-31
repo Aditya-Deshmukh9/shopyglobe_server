@@ -10,16 +10,16 @@ This is the backend server for the ShoppyGlobe E-commerce Application, built usi
 - **Error handling** and **validation** for stability.
 - **ThunderClient** or **Postman** for API testing.
 
----
+💻 Github: [https://github.com/Aditya-Deshmukh9/shopyglobe_server](https://github.com/Aditya-Deshmukh9/shopyglobe_server)
 
-💻 Github: [https://github.com/Aditya-Deshmukh9/shoppyGlobe_React](https://github.com/Aditya-Deshmukh9/shoppyGlobe_React)
+---
 
 ## ✅ Installation & Setup
 
 ### 1. Clone the Repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Aditya-Deshmukh9/shopyglobe_server
 cd shoppyglobe-backend
 ```
 
